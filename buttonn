@@ -1,0 +1,4 @@
+body {
+  background-color: blue;
+}
+<button onclick="document.body.style.backgroundColor = 'green';">Green</button>
